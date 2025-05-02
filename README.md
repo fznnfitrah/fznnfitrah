@@ -13,9 +13,9 @@ welcome to my profile, I'm a lifelong learner, I love learning everything.
   <img src="img/animated.gif">
 </p>
 
-<div style="display: flex; justify-content: center;">
-    <img src="https://profile-counter.glitch.me/fznnfitrah/count.svg" alt="Visitor Count">
-</div>
+<p align="center">
+  <img src="https://profile-counter.glitch.me/fznnfitrah/count.svg" alt="Visitor Count">
+</p>
 
 ####
 
