@@ -17,15 +17,17 @@ Here are some ideas to get you started:
 
 welcome to my profile, I'm a lifelong learner, I love learning everything.
 
-##### My favorite show :
+#### My favorite show :
 
-![OnePiece](img/animated.gif)
+<p align="center">
+    ![OnePiece](img/animated.gif)
+</p>
 
-#####
 
-<!-- <p align="center">![Visitor Count](https://profile-counter.glitch.me/{fznnfitrah}/count.svg)</p> -->
 
-![Visitor Count](https://profile-counter.glitch.me/{fznnfitrah}/count.svg)</p>
+<p align="center">![Visitor Count](https://profile-counter.glitch.me/{fznnfitrah}/count.svg)</p>
+
+<!-- ![Visitor Count](https://profile-counter.glitch.me/{fznnfitrah}/count.svg)</p> -->
 
 ####
 
