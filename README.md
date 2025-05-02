@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **fznnfitrah/fznnfitrah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,6 +13,21 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+### Hello World! I'am fitrah👋
+
+welcome to my profile, I'm a lifelong learner, I love learning everything.
+
+##### My favorite show :
+
+![OnePiece](img/animated.gif)
+
+#####
+
+<!-- <p align="center">![Visitor Count](https://profile-counter.glitch.me/{fznnfitrah}/count.svg)</p> -->
+
+![Visitor Count](https://profile-counter.glitch.me/{fznnfitrah}/count.svg)</p>
+
+####
 
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fznnfitrah/fznnfitrah/output/pacman-contribution-graph-dark.svg">
